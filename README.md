@@ -16,8 +16,10 @@ Hello, I'm **Snowflake107**.
 - **[@Zyrouge](https://github.com/Zyrouge)**
 - **[@Saif](https://github.com/thanos783)**
 
-# Join my Discord Server
-**[Click Here](https://snowflakedev.xyz/discord)**
+# Links
+- **[Discord](https://discord.gg/2SUybzb)**
+- **[Facebook](https://fb.me/DevSnowflake)**
+- **[Twitter](https://twitter.com/DevSnowflake)**
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api?username=snowflake107&show_icons=true&theme=tokyonight&hide=["issues"])
 
