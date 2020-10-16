@@ -1,5 +1,5 @@
-# Snowflake107
-Hello, I'm **Snowflake107**.
+# Snowflake
+Hello, I'm **Snowflake** (Not a real name). I am from Nepal 😜. I am a student and I make random stuff ~~most of them are useless lmao~~
 
 # My projects
 | Project        | URL           | Description |
