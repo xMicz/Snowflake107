@@ -9,6 +9,10 @@ Hello, I'm **Snowflake** (Not a real name). I am from Nepal 😜. I am a student
 | QuickMongo | [https://npmjs.com/package/quickmongo](https://npmjs.com/package/quickmongo)      | Quick mongodb wrapper for beginners. |
 | Soundcloud Scraper | [https://npmjs.com/package/soundcloud-scraper](https://npmjs.com/package/soundcloud-scraper) | Get data from soundcloud without api key. |
 | TikTok Search | [https://npmjs.com/package/tiktok-search](https://npmjs.com/package/tiktok-search) | Simple module to fetch data from TikTok. |
+| Super Simple API | [https://api.snowflakedev.xyz](https://api.snowflakedev.xyz) | Super simple API. |
+
+# Discord
+[![](https://i.imgur.com/f6hNUfc.png)](https://discord.gg/2SUybzb)
 
 # Friends
 - **[@ItzMeRM](https://github.com/ItzMeRM)**
