@@ -14,6 +14,7 @@ Hello, I'm **Snowflake** (Not a real name). I am from Nepal 😜. I am a student
 |8. | Youtube-SR| [https://github.com/DevSnowflake/youtube-sr](https://github.com/DevSnowflake/youtube-sr) | Simple package to search videos or channels on YouTube. |
 |9. | DankMemer | [https://github.com/DevSnowflake/dankmemer.js](https://github.com/DevSnowflake/dankmemer.js) | API wrapper for Dank Memer API. |
 |10. | Snowshot | [https://github.com/DevSnowflake/Snowshot](https://github.com/DevSnowflake/Snowshot) | Simple package to take screenshot of given html/markdown code. |
+|11. | quick.db Prototypes | [https://npmjs.com/package/quick.db-prototypes](https://npmjs.com/package/quick.db-prototypes) | Prototypes for quick.db |
 
 # Discord
 [![](https://i.imgur.com/f6hNUfc.png)](https://discord.gg/2SUybzb)
