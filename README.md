@@ -1,6 +1,8 @@
 # Snowflake
 Hello, I'm **Snowflake** (Not a real name). I am from Nepal 😜. I am a student and I make random stuff ~~most of them are useless lmao~~
 
+> Founder of **[@Snowflake Studio ❄](https://github.com/DevSnowflake)**
+
 # My projects
 | S.N.  | Project        | URL           | Description |
 | ------|:------------- |:-------------:|:--------------:|
@@ -15,6 +17,7 @@ Hello, I'm **Snowflake** (Not a real name). I am from Nepal 😜. I am a student
 |9. | DankMemer | [https://github.com/DevSnowflake/dankmemer.js](https://github.com/DevSnowflake/dankmemer.js) | API wrapper for Dank Memer API. |
 |10. | Snowshot | [https://github.com/DevSnowflake/Snowshot](https://github.com/DevSnowflake/Snowshot) | Simple package to take screenshot of given html/markdown code. |
 |11. | quick.db Prototypes | [https://npmjs.com/package/quick.db-prototypes](https://npmjs.com/package/quick.db-prototypes) | Prototypes for quick.db |
+|12. | quick.eco | [https://npmjs.com/package/quick.eco](https://npmjs.com/package/quick.eco) | Powerful economy framework for discord bots. |
 
 # Discord
 [![](https://i.imgur.com/f6hNUfc.png)](https://discord.gg/2SUybzb)
