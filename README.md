@@ -3,7 +3,7 @@ Hello, I'm **Snowflake** (Not a real name). I am from Nepal 😜. I am a student
 
 > Founder of **[@Snowflake Studio ❄](https://github.com/DevSnowflake)**
 
-# My projects
+# My projects (Not all)
 | S.N.  | Project        | URL           | Description |
 | ------|:------------- |:-------------:|:--------------:|
 |1. | Canvacord      | [https://npmjs.com/package/canvacord](https://npmjs.com/package/canvacord) | Powerful image manipulation module for beginners. |
