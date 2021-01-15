@@ -1,8 +1,3 @@
-# Snowflake
-Hello, I'm **Snowflake** (Not a real name). I am from Nepal 😜. I am a student and I make random stuff ~~most of them are useless lmao~~
-
-> Founder of **[@Snowflake Studio ❄](https://github.com/DevSnowflake)**
-
 # My projects (Not all)
 | S.N.  | Project        | URL           | Description |
 | ------|:------------- |:-------------:|:--------------:|
