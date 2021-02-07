@@ -1,18 +1,5 @@
-# My projects (Not all)
-| S.N.  | Project        | URL           | Description |
-| ------|:------------- |:-------------:|:--------------:|
-|1. | Canvacord      | [https://npmjs.com/package/canvacord](https://npmjs.com/package/canvacord) | Powerful image manipulation module for beginners. |
-|2. | Discord YTDL Core      | [https://npmjs.com/package/discord-ytdl-core](https://npmjs.com/package/discord-ytdl-core)      | YTDL wrapper for discord bots with custom FFmpeg args support |
-|3. | QuickMongo | [https://npmjs.com/package/quickmongo](https://npmjs.com/package/quickmongo)      | Quick mongodb wrapper for beginners. |
-|4. | Soundcloud Scraper | [https://npmjs.com/package/soundcloud-scraper](https://npmjs.com/package/soundcloud-scraper) | Get data from soundcloud without api key. |
-|5. | TikTok Search | [https://npmjs.com/package/tiktok-search](https://npmjs.com/package/tiktok-search) | Simple module to fetch data from TikTok. |
-|6. | Super Simple API | [https://api.snowflakedev.xyz](https://api.snowflakedev.xyz) | Super simple API. |
-|7. | Create Discord App | [https://github.com/DevSnowflake/create-discord-app](https://github.com/DevSnowflake/create-discord-app) | CLI to generate discord bot project. |
-|8. | Youtube-SR| [https://github.com/DevSnowflake/youtube-sr](https://github.com/DevSnowflake/youtube-sr) | Simple package to search videos or channels on YouTube. |
-|9. | DankMemer | [https://github.com/DevSnowflake/dankmemer.js](https://github.com/DevSnowflake/dankmemer.js) | API wrapper for Dank Memer API. |
-|10. | Snowshot | [https://github.com/DevSnowflake/Snowshot](https://github.com/DevSnowflake/Snowshot) | Simple package to take screenshot of given html/markdown code. |
-|11. | quick.db Prototypes | [https://npmjs.com/package/quick.db-prototypes](https://npmjs.com/package/quick.db-prototypes) | Prototypes for quick.db |
-|12. | quick.eco | [https://npmjs.com/package/quick.eco](https://npmjs.com/package/quick.eco) | Powerful economy framework for discord bots. |
+# My projects
+I mostly work **[here](https://github.com/DevSnowflake)**. I also contribute to open source projects sometimes 😁
 
 # Discord
 [![](https://i.imgur.com/f6hNUfc.png)](https://discord.gg/2SUybzb)
@@ -27,6 +14,7 @@
 - **[Discord](https://discord.gg/2SUybzb)**
 - **[Facebook](https://fb.me/DevSnowflake)**
 - **[Twitter](https://twitter.com/DevSnowflake)**
+- **[Website](https://snowflake.is-a.dev)**
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api?username=snowflake107&show_icons=true&theme=tokyonight&hide=["issues"])
 
