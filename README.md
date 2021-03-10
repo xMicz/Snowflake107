@@ -19,5 +19,3 @@ I mostly work **[here](https://github.com/DevSnowflake)**. I also contribute to 
 ![Snowflake107](https://github-readme-stats.vercel.app/api?username=snowflake107&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=snowflake107&show_icons=true&theme=tokyonight&layout=compact)
-
-[![Snowflake107](https://api.ghprofile.me/view?username=YOUR_USERNAME)](https://discord.gg/2SUybzb)
