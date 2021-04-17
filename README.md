@@ -1,4 +1,4 @@
-# My projects
+# xMicz
 I mostly work **[here](https://github.com/xMicz)**. I also contribute to open source projects sometimes 😁
 
 
